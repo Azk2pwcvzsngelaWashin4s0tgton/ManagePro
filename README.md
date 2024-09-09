@@ -2,3 +2,4 @@
 ManagementObjectives
 SetupGuide
 ProjectFeatures
+DependenciesList
