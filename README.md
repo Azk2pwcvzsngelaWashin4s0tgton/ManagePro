@@ -3,3 +3,4 @@ ManagementObjectives
 SetupGuide
 ProjectFeatures
 DependenciesList
+CodeExamples
