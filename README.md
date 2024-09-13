@@ -4,3 +4,4 @@ SetupGuide
 ProjectFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
