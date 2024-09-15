@@ -5,3 +5,4 @@ ProjectFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
