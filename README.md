@@ -11,3 +11,4 @@ LicenseDetails
 ManagementFAQ
 Changelog
 TestingInstructions
+ProjectPerformance
