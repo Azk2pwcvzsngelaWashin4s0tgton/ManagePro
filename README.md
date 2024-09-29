@@ -12,3 +12,4 @@ ManagementFAQ
 Changelog
 TestingInstructions
 ProjectPerformance
+CommunityResources
